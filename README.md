@@ -2,9 +2,9 @@
 
 Authors: [Cristian-Paul Bara](https://sled.eecs.umich.edu/author/cristian-paul-bara/), [Ziqiao Ma](https://sled.eecs.umich.edu/author/ziqiao-martin-ma/), [Yingzhuo Yu](https://www.yyzjason.com/), [Julie Shah](https://interactive.mit.edu/about/people/julie) [Joyce Chai](https://web.eecs.umich.edu/~chaijy/)
 
-This is the official code repository for the paper ([anthology link]()): 
+This is the official code repository for the paper ([anthology link <will update when available>]()): 
 
-An extended verion of the paper including supplemental material can be found at the [ArXiv](https://arxiv.org/abs/XXXX.XXXXX)
+An extended verion of the paper including supplemental material can be found at ([ArXiv](https://arxiv.org/abs/XXXX.XXXXX))
 
 ## Dataset
 
