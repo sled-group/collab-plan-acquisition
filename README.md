@@ -10,7 +10,7 @@ An extended verion of the paper including supplemental material can be found at 
 
 You will need to download the original dataset released with the [MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks](https://aclanthology.org/2021.emnlp-main.85/) paper as well as our extension of the original dataset.
 
-[Original MindCraft](https://huggingface.co/datasets/sled-umich/MindCraft)
+[Original Dataset](https://huggingface.co/datasets/sled-umich/MindCraft)
 
 [Extended Dataset](https://huggingface.co/datasets/sled-umich/MindCraft2)
 
