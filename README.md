@@ -14,4 +14,6 @@ You will need to download the original dataset released with the [MindCraft: The
 
 [Extended Dataset](https://huggingface.co/datasets/sled-umich/MindCraft2)
 
+[Models]()
+
 If you are having trouble accessing the data and models please contact [Cristian-Paul Bara](https://sled.eecs.umich.edu/author/cristian-paul-bara/) at [cpbara@umich.edu](cpbara@umich.edu)
