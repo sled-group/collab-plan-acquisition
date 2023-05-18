@@ -1,0 +1,21 @@
+{
+    "ACKNOWLEDGMENT": 0,
+    "AGREEMENT": 1,
+    "APOLOGY": 2,
+    "AnsAff": 3,
+    "AnsNeg": 4,
+    "AnsOth": 5,
+    "AnsOther": 6,
+    "BACKCHANNEL": 7,
+    "CLOSING": 8,
+    "DIRECTIVE": 9,
+    "DeclarativeQuestion": 10,
+    "GameSpec": 11,
+    "OPENING": 12,
+    "OPINION": 13,
+    "OrClause": 14,
+    "STATEMENT": 15,
+    "WhQuestion": 16,
+    "YesNoQuestion": 17,
+    "other": 18
+}
