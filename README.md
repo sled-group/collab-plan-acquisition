@@ -4,7 +4,7 @@ Authors: [Cristian-Paul Bara](https://sled.eecs.umich.edu/author/cristian-paul-b
 
 This is the official code repository for the paper ([anthology link]()). Will update when available.
 
-An extended verion of the paper including supplemental material can be found at ([ArXiv](https://arxiv.org/abs/XXXX.XXXXX))
+An extended verion of the paper including supplemental material can be found at ([ArXiv](https://arxiv.org/abs/XXXX.XXXXX)).
 
 ## Dataset
 
